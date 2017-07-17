@@ -11,7 +11,7 @@
  - 工作年限：3年
  - GitHub: https://github.com/DanYangJin 
 
- - 期望职位：Android高级程序员，应用架构师
+ - 期望职位：Android高级程序员
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：杭州
 
