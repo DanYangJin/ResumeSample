@@ -75,6 +75,23 @@
 - 单元测试：Junit
 - 开放平台：微博开放平台/微信应用开发
 
+# 技术点
+
+- 熟练掌握Java基础，有良好的编程习惯
+- 熟练掌握AndroidStudio，Eclipse，NetBeans开发工具
+- 熟练掌握Android的四大组件，熟悉Android数据存储的四种方式 
+- 熟练掌握Android UI设计，熟练Android5.0新特性，比如RecycleView，CardView以及水波纹效果等
+- 熟练掌握Android属性动画
+- 熟练掌握JSON和XML数据解析，以及google的protobuf数据类型
+- 熟练掌握TCP/UDP通讯协议，搭建简单的客户端与服务端通讯框架
+- 熟悉掌握Service ，Handler等异步操作的流程及使用 
+- 熟悉Android开发整体流程，比如Junit单元测试，SVN或GIT版本管理，友盟或听云错误分析，代码混淆
+- 熟悉AndroidTV端和手机端常用分辨率的适配
+- 熟悉Android内存优化技术
+- 熟悉Android音频等媒体播放技术，比如编译bilibili播放器以及弹幕开发
+- 熟悉JNI，了解NDK开发
+- 注重编写文档,并拥有很好的团队意识
+
 ## 参考技能关键字
 
 - android(1830)
