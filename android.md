@@ -2,7 +2,7 @@
 
 - 手机：15820798016
 - Email：android1410danbin@163.com
-- 微信号：1174345973
+- QQ号：1174345973
 
 # 个人信息
 
@@ -45,7 +45,7 @@
 - 难点描述：如何保证传输的稳定性，快速和稳定的搜索统一局域网所有设备，如何高效实现手机版与TV版通讯，实现手机版控制TV端，包括应用下载，按键响应
 - 解决方案：第一减少每次传输的数据量，采用google的protocolbuf数据结构，减少数据量，第二将获取设备信息数据分成必要（IP地址）和非必要（设备信号，名称），同时采用双向广播，大大提升了搜索设备的效率，第三采用mina框架，实现端对端通讯，其中消息的处理采用队列方式收发消息，为了避免丢包，重写消息接受机制，实现断包，粘包，同时实现短线重连，心跳机制，减少掉线几率。
 - 项目链接：http://apk.beevideo.tv/mobile/20211/mobile_2.02.11_m.default.apk（已停服）
-- 额外链接：https://github.com/DanYangJin/ProtoBeeHelperServer 
+- 额外链接：https://github.com/DanYangJin/ProtoBeeHelperServer
            https://github.com/DanYangJin/ProtoBeeHelperClient
 
 ### 蜜蜂市场TV版
